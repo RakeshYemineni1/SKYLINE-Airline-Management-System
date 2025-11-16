@@ -1,4 +1,4 @@
-# Airline Registration System
+# SKYLINE Airline Management System
 
 A full-stack airline booking system built with Spring Boot, React, and MySQL. This system allows users to search flights, make bookings, and provides comprehensive admin management capabilities.
 
@@ -58,8 +58,8 @@ Before running this project, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd airline-registration-system
+git clone https://github.com/RakeshYemineni1/SKYLINE-Airline-Management-System.git
+cd SKYLINE-Airline-Management-System
 ```
 
 ### 2. Database Setup
