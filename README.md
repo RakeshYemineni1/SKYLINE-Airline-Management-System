@@ -408,7 +408,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 **Developer:** Rakesh Yemineni  
-**Email:** rakeshyemineni2005@gmail.com
+**Email:** yrk122005@gmail.com
 
 ---
 
